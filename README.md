@@ -1,6 +1,6 @@
 # Exercise about basic Flutter widgets and routes
 > Exercise about basic Flutter elements, splashscreen, a simple Login page, Register page and a main page with routes to other 3 pages.
-<img src="/images/exercise.jpg height"50"> 
+<img src="/images/exercise.jpg height"10"> 
 
 ## Table of contents
 * [Splashscreen](#Splashscreen)
