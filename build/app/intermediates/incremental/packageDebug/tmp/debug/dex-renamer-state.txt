@@ -1,0 +1,4 @@
+#Sun Mar 21 19:50:49 EET 2021
+base.0=C\:\\Users\\40729\\Documents\\Android\\flutter_workspace\\skyfi\\Exercise_routes_navigation\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
