@@ -3,15 +3,15 @@
 
 ## Table of contents
 * [Splashscreen](#Splashscreen)
-* [Login screen and Register screen](#Login screen and Register screen)
+* [Login/Register screen](#Login/Register screen)
 * [ListView](#ListView)
-* [Column with SingleChildScrollView](#Column with SingleChildScrollView)
+* [Column/SingleChildScrollView](#Column/SingleChildScrollView)
 
 
 ## Splashscreen
 Basic knowledge of the Life cycle, structure of an Flutter application and Splashscreen.
 
-## Login screen and Register screen
+## Login/Register screen
 Basic knowledge about:
 
 * Scaffold and Material 
@@ -32,7 +32,7 @@ Basic knowledge about types of ListView which renders only visible items in the 
 * Infinite ListView
 * Horizontal ListView
 
-## Column with SingleChildScrollView
+## Column/SingleChildScrollView
 Basic knowledge about differences of:
 
 * List View() - render all the items in the list, even if is not visible
