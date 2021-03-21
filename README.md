@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [Splashscreen](#Splashscreen)
-* [Login/Register screen](#Login/Register screen)
+* [Login/Register](#Login/Register)
 * [ListView](#ListView)
 * [Column/SingleChildScrollView](#Column/SingleChildScrollView)
 
@@ -11,7 +11,7 @@
 ## Splashscreen
 Basic knowledge of the Life cycle, structure of an Flutter application and Splashscreen.
 
-## Login/Register screen
+## Login/Register
 Basic knowledge about:
 
 * Scaffold and Material 
