@@ -1,5 +1,5 @@
-# Exercise about basic Flutter widgets and routes
-> Exercise about basic Flutter elements, splashscreen, a simple Login page, Register page and a main page with routes to other 3 pages.
+# Exercise with basic Flutter widgets and routes
+> Exercise with basic Flutter elements, splashscreen, a simple Login page, Register page and a main page with routes to other 3 pages.
 
 ## Table of contents
 * [Splashscreen](#Splashscreen)
